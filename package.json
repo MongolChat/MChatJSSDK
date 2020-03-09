@@ -1,0 +1,9 @@
+{
+  "name": "MChatJSSDK",
+  "version": "1.0.0",
+  "description": "MChat SDK for javascript",
+  "main": "index.js",
+  "repository": "https://github.com/MongolChat/MChatJSSDK.git",
+  "author": "Munkbaatar <munkhuu0825@gmail.com>",
+  "license": "MIT"
+}
